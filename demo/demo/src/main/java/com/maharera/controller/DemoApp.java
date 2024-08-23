@@ -1,4 +1,4 @@
-package com.maharera.service;
+package com.maharera.controller;
 
 import java.io.IOException;
 import java.nio.file.Files;
